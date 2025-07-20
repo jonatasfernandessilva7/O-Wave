@@ -1,3 +1,5 @@
+![Home screen](https://github.com/jonatasfernandessilva7/O-Wave/blob/main/O-wave.png)
+
 # O-Wave
 O-Wave is a desktop application developed in python, using tkinter.
 
