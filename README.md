@@ -6,6 +6,12 @@ O-Wave is a desktop application developed in python, using tkinter.
 # Objective
 The objective of this project is to help convert various audios in ".ogg" format, the same as WhatsApp audios, to ".wav" format, wave.
 
+# Requirements
+Install the pydub library
+```bash
+pip install pydub
+```
+
 # How to Run
 
 1. Clone the repository. Copy and paste the command below into your terminal
